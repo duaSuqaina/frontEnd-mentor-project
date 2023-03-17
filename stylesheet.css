@@ -1,0 +1,20 @@
+.nav-item,.nav-link,.navbar-btn{
+    padding-left: 7%;
+}
+.menu-cls{
+    padding: 2% 3%;
+}
+h1{
+    font-size: 3.5rem;
+    font-weight: bold; 
+}
+.hero-image{
+    width: 60%;
+}
+.space{
+    padding: 5% 7% 5% 13%;
+}
+.img-col {
+    padding: 0 7% 0 7%;
+}
+
